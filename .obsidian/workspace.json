@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "03b78d3f442482a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "54961f2b1044eb6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35cdfe170c932f88",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d8447b951feb52e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a99413c794b6da9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7249a34ad39a72a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "675f6f0f1e213710",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29e13d553e126cb9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "cde84e71a5096cff",
+    "type": "split",
+    "children": [
+      {
+        "id": "da264588a091c269",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "652fd4f1eb4ed0ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8771a94f9b20b9c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf7d8b7b2161eefc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00ef6515fca03f62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "35cdfe170c932f88",
+  "lastOpenFiles": [
+    "晉升.md",
+    "README.md",
+    "機械事件.md",
+    "「預兆」模組化終結塔.md",
+    "普通深潛.md",
+    "紀念堂.md",
+    "深潛任務.md",
+    "三方石鑰匙.md",
+    "玩家等級.md",
+    "角色等級.md"
+  ]
+}
