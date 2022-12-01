@@ -18,20 +18,19 @@
             }
           },
           {
-            "id": "816f4f81fcae9c75",
+            "id": "a7f65924abd40f86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "「預兆」模塊化終結塔.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "816f4f81fcae9c75",
+  "active": "35cdfe170c932f88",
   "lastOpenFiles": [
-    "晉升.md",
-    "README.md",
-    "機械事件.md",
-    "「預兆」模組化終結塔.md",
-    "普通深潛.md",
-    "紀念堂.md",
-    "深潛任務.md",
+    "「預兆」模塊化終結塔.md",
     "三方石鑰匙.md",
-    "玩家等級.md",
-    "角色等級.md"
+    "科賽特感染.md",
+    "三方石礦脈.md",
+    "武器核心.md",
+    "硬膠變異.md",
+    "深潛任務.md",
+    "普通深潛.md",
+    "README.md",
+    "晉升.md"
   ]
 }
