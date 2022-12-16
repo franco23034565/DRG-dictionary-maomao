@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "drg_maomao/pictures",
   "newFileLocation": "folder",
-  "newFileFolderPath": "drg_maomao"
+  "newFileFolderPath": "drg_maomao",
+  "alwaysUpdateLinks": true
 }

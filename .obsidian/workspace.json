@@ -18,19 +18,20 @@
             }
           },
           {
-            "id": "2ff51502c53ed09f",
+            "id": "f12d95f2f6567067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drg_maomao/武器核心.md",
+                "file": "drg_maomao/「預兆」模組化終結塔.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "drg_maomao/「預兆」模組化終結塔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "drg_maomao/「預兆」模組化終結塔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "drg_maomao/「預兆」模組化終結塔.md"
+              }
             }
           }
         ]
@@ -143,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35cdfe170c932f88",
+  "active": "f12d95f2f6567067",
   "lastOpenFiles": [
-    "drg_maomao/武器核心.md",
+    "drg_maomao/「預兆」模組化終結塔.md",
+    "drg_maomao/每週核心狩獵.md",
+    "drg_maomao/BET-C.md",
+    "drg_maomao/深潛任務.md",
     "drg_maomao/機械事件.md",
+    "drg_maomao/武器核心.md",
     "drg_maomao/franco推薦的新手教學影片.md",
     "drg_maomao/Beginner's.md",
-    "drg_maomao/BET-C.md",
     "未命名.md",
-    "「預兆」模塊化終結塔.md",
-    "三方石鑰匙.md",
-    "科賽特感染.md",
-    "三方石礦脈.md"
+    "「預兆」模塊化終結塔.md"
   ]
 }
