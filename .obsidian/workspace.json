@@ -16,6 +16,19 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "2ff51502c53ed09f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drg_maomao/武器核心.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -132,15 +145,15 @@
   },
   "active": "35cdfe170c932f88",
   "lastOpenFiles": [
+    "drg_maomao/武器核心.md",
+    "drg_maomao/機械事件.md",
     "drg_maomao/franco推薦的新手教學影片.md",
     "drg_maomao/Beginner's.md",
     "drg_maomao/BET-C.md",
-    "drg_maomao/機械事件.md",
     "未命名.md",
     "「預兆」模塊化終結塔.md",
     "三方石鑰匙.md",
     "科賽特感染.md",
-    "三方石礦脈.md",
-    "武器核心.md"
+    "三方石礦脈.md"
   ]
 }
